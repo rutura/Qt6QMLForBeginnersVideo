@@ -44,8 +44,8 @@ ui_*.h
 *~
 
 # QML Language Server files
-qmllls.ini
-**/qmllls.ini
+.qmlls.ini
+**/.qmlls.ini
 
 # OS generated files
 .DS_Store
