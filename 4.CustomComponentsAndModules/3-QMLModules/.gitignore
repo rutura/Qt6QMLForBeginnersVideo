@@ -43,6 +43,10 @@ ui_*.h
 *.swo
 *~
 
+# QML Language Server files
+qmllls.ini
+**/qmllls.ini
+
 # OS generated files
 .DS_Store
 .DS_Store?
