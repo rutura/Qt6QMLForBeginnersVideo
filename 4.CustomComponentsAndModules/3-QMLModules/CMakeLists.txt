@@ -13,7 +13,7 @@ qt_add_executable(app3-QMLModules
 )
 
 qt_add_qml_module(app3-QMLModules
-    URI 3-QMLModules
+    URI QMLModules
     VERSION 1.0
     QML_FILES Main.qml
 )
