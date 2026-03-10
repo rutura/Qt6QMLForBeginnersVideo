@@ -6,7 +6,7 @@ int main(int argc, char *argv[])
     QGuiApplication app(argc, argv);
 
     QQmlApplicationEngine engine;
-    const QUrl url(u"qrc:/3-qt_add_resource/Main.qml"_qs);
+    const QUrl url(u"qrc:/QtAddResource/Main.qml"_qs);
     QObject::connect(
         &engine,
         &QQmlApplicationEngine::objectCreationFailed,

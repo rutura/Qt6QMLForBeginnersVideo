@@ -21,14 +21,14 @@ qt_add_executable(app3-qt_add_resource
 # )
 
 # qt_add_qml_module(app3-qt_add_resource
-#     URI 3-qt_add_resource
+#     URI QtAddResource
 #     VERSION 1.0
 #     QML_FILES Main.qml
 # )
 
 # Method 2.
 qt_add_qml_module(app3-qt_add_resource
-    URI 3-qt_add_resource
+    URI QtAddResource
     VERSION 1.0
     QML_FILES
         Main.qml
