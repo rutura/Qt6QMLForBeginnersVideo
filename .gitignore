@@ -1,6 +1,7 @@
 **/CMakeLists.txt.user
 **/CMakeCache.txt
 *build-*
+**/build/
 *.bkp
 *.dtmp
 *.autosave
